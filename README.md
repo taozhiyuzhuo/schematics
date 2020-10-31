@@ -21,7 +21,7 @@ The Nest CLI is a command-line interface tool that helps you to initialize, deve
 ## Installation
 
 ```
-$ npm install -g @nestjs/schematics
+$ npm install -g @taozhiyuzhuo/schematics
 ```
 
 ## Usage

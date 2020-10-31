@@ -1,7 +1,7 @@
 {
-  "name": "@nestjs/schematics",
-  "version": "8.0.5",
-  "description": "Nest - modern, fast, powerful node.js web framework (@schematics)",
+  "name": "@taozhiyuzhuo/schematics",
+  "version": "0.0.5",
+  "description": "schematics integration crud request",
   "main": "dist/index.js",
   "files": [
     "dist/**/*"
@@ -27,18 +27,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nestjs/schematics.git"
+    "url": "git+https://github.com/taozhiyuzhuo/schematics.git"
   },
   "contributors": [
-    "ThomRick",
-    "Kamil Mysliwiec",
-    "John Biundo"
+   "taozhiyuzhuo"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/nestjs/schematics/issues"
-  },
-  "homepage": "https://github.com/nestjs/schematics#readme",
   "dependencies": {
     "@angular-devkit/core": "13.1.1",
     "@angular-devkit/schematics": "13.1.1",
