@@ -1,6 +1,6 @@
 {
   "name": "@taozhiyuzhuo/schematics",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "schematics integration crud request",
   "main": "dist/index.js",
   "files": [
@@ -30,7 +30,7 @@
     "url": "git+https://github.com/taozhiyuzhuo/schematics.git"
   },
   "contributors": [
-   "taozhiyuzhuo"
+    "taozhiyuzhuo"
   ],
   "license": "MIT",
   "dependencies": {

@@ -33,7 +33,7 @@
     },
     "spec": {
       "type": "boolean",
-      "default": true,
+      "default": false,
       "description": "Specifies if specs file are generated."
     },
     "type": {
